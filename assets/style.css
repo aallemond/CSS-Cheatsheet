@@ -1,0 +1,51 @@
+:root{
+    --main-font:rgb(230, 35, 230);
+
+}
+
+*{
+    background-color: rgb(182, 175, 175);
+}
+
+header{
+    margin: 50px;
+    display: block;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.page-title{
+    color: var(--main-font);
+    
+    
+    
+    
+}
+
+
+.card-column{
+    width: 200px;
+    border: dashed white;
+    padding: 100px;
+    color: var(--main-font);
+    background-color: white
+
+}
+
+.card-header{
+    background-color: rgb(181, 167, 167);
+    width: 200px;
+    border: solid white;
+    color: var(--main-font);
+    position: relative;
+    top: -140px; left: -40px;
+
+  
+
+}
+
+    
+
